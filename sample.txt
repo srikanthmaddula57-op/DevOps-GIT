@@ -1,0 +1,2 @@
+deposit=10000000
+withdrawl=500000
